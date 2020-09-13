@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **SRE and cloud engineering at AutoScout24**
 - 🌱 I’m learning **ML and data engineering**
-- 📝 I regulary write articles on [https://www.slavikdev.com](https://www.slavikdev.com)
+- 📝 I write articles on [https://www.slavikdev.com](https://www.slavikdev.com)
 - 💬 Ask me about **leadership, management, SRE, cloud engineering and software architecture**
 - 📫 Reach me at **slavik@slavikdev.com**
 - ⚡ Fun fact: **I’m Neapolitan pizza enthusiast 🍕**
